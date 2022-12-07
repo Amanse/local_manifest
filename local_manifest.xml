@@ -1,0 +1,27 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+<remote name="github"
+          fetch="https://github.com/" />
+
+  <remote name="gitlab"
+          fetch="https://gitlab.com" />
+
+ <!-- Trees -->
+
+ <project path="device/oplus/RMX3461" name="itsxrp/android_device_oplus_RMX3461.git" remote="github" revision="elixir" />
+
+ <project path="device/oplus/sm8350-common" name="itsxrp/device_oplus_sm8350-common.git" remote="github" revision="q3s" />
+ <project path="hardware/oplus" name="itsxrp/hardware_oplus.git remote="github" revision="elixir" />
+
+
+ <project path="vendor/oplus/RMX3461" name="itsxrp/vendor_oplus_RMX3461.git" remote="gitlab" revision="elixir" />
+ <project path="proprietary/vendor/oplus" name="itsxrp/proprietary_vendor_oplus.git" remote="gitlab" revision="elixir" />
+
+ <project path="kernel/oplus/sm8350" name="pjgowtham/android_kernel_oplus_sm8350.git" remote="github" revision="lineage-19.1-RMX3360-S-source" />
+
+ 
+
+</manifest>
