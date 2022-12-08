@@ -14,7 +14,7 @@
  <project path="device/oplus/RMX3461" name="itsxrp/android_device_oplus_RMX3461.git" remote="github" revision="elixir" />
 
  <project path="device/oplus/sm8350-common" name="itsxrp/device_oplus_sm8350-common.git" remote="github" revision="q3s" />
- <project path="hardware/oplus" name="itsxrp/hardware_oplus.git remote="github" revision="elixir" />
+ <project path="hardware/oplus" name="itsxrp/hardware_oplus.git" remote="github" revision="elixir" />
 
 
  <project path="vendor/oplus/RMX3461" name="itsxrp/vendor_oplus_RMX3461.git" remote="gitlab" revision="elixir" />
