@@ -8,8 +8,8 @@
           fetch="https://gitlab.com" />
 
  <!-- Trees -->
- <remove-project name="vendor/qcom/opensource/vibrator"/>
- <remove-project name="packages/modules/Bluetooth"/>
+ <remove-project name="vendor_qcom_opensource_vibrator"/>
+ <remove-project name="packages_modules_Bluetooth"/>
 
  <project path="device/oplus/RMX3461" name="amanse/android_device_oplus_RMX3461.git" remote="github" revision="elixir" />
  <project path="vendor/qcom/opensource/vibrator" name="itsxrp/android_vendor_qcom_opensource_vibrator.git" remote="github" />
