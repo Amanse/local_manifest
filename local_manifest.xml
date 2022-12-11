@@ -22,7 +22,7 @@
  <project path="vendor/oplus/RMX3461" name="itsxrp/vendor_oplus_RMX3461.git" remote="gitlab" revision="elixir" />
  <project path="vendor/oplus" name="itsxrp/proprietary_vendor_oplus.git" remote="gitlab" revision="elixir" />
 
- <project path="kernel/oplus/sm8350" name="pjgowtham/android_kernel_oplus_sm8350.git" remote="github" revision="lineage-19.1-RMX3360-S-source" />
+ <project path="kernel/oplus/sm8350" name="pjgowtham/android_kernel_oplus_sm8350.git" remote="github" revision="RMX3461" />
 
  
 
